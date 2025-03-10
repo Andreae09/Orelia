@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbeffcde685cc8e4d8d685bd46ca4c36
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312351
+  packageName: Rattsmith - basic 2D asset
+  packageVersion: 1.0
+  assetPath: Assets/Rattsmith - basic 2D asset/player/move/right_0 (1).controller
+  uploadId: 736256

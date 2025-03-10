@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 488c53694297ece4c8ad78bbb1185803
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312351
+  packageName: Rattsmith - basic 2D asset
+  packageVersion: 1.0
+  assetPath: Assets/Rattsmith - basic 2D asset/enemies/ranger/move/ranger_move_right_0.controller
+  uploadId: 736256

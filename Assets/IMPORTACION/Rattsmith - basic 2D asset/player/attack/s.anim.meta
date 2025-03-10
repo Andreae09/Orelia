@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5152233b710a2c14c9189ed67755089f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312351
+  packageName: Rattsmith - basic 2D asset
+  packageVersion: 1.0
+  assetPath: Assets/Rattsmith - basic 2D asset/player/attack/s.anim
+  uploadId: 736256

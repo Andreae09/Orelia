@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b7ea67f2d8bd754fac54dbd18267cf3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312351
+  packageName: Rattsmith - basic 2D asset
+  packageVersion: 1.0
+  assetPath: Assets/Rattsmith - basic 2D asset/player/attack/right_0 (1).controller
+  uploadId: 736256

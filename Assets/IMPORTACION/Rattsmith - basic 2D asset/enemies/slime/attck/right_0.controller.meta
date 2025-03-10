@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16bc9f947710dcc47872efa055e813ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312351
+  packageName: Rattsmith - basic 2D asset
+  packageVersion: 1.0
+  assetPath: Assets/Rattsmith - basic 2D asset/enemies/slime/attck/right_0.controller
+  uploadId: 736256

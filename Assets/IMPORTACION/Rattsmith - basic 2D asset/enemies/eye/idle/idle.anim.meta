@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8328e3407381c214aa35abd84588e863
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312351
+  packageName: Rattsmith - basic 2D asset
+  packageVersion: 1.0
+  assetPath: Assets/Rattsmith - basic 2D asset/enemies/eye/idle/idle.anim
+  uploadId: 736256
